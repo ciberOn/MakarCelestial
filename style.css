@@ -80,3 +80,16 @@ body{
     border-top: 1px solid white;
     padding: 40px;
 }
+
+.link__joke{
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+    color: black;
+}
+
+.link__joke:hover{
+    transform: translate(90%,-100%);
+    transition: 300ms;
+}
